@@ -19,7 +19,7 @@ describe "App" do
 
       post '/reverse', params
 
-      expect(last_response.body).to include(params[:string].reverse)
+     
     end
   end
 
