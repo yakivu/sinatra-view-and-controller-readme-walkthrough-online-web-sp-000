@@ -35,7 +35,7 @@ describe "App" do
 
       get '/friends'
 
-     ')
+    
     end
   end
 end
