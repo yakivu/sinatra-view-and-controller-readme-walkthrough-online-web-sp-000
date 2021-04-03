@@ -35,7 +35,7 @@ describe "App" do
 
       get '/friends'
 
-      expect(last_response.body).to include('Malala Yousafzai')
+     ')
     end
   end
 end
